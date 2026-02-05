@@ -9,3 +9,5 @@
 
 # ignore the mediapipe testing folder
 test_mediapipe.py
+
+.idea/
