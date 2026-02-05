@@ -1,0 +1,11 @@
+# ignore the .env file
+.env
+
+# ignore the data folder
+/data
+
+# ignore the environment folder
+.venv
+
+# ignore the mediapipe testing folder
+test_mediapipe.py
