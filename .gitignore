@@ -10,4 +10,9 @@
 # ignore the mediapipe testing folder
 test_mediapipe.py
 
-.idea/
+.idea
+
+models/blink_model/blink_classifier.pkl
+models/fusion_model/risk_model.pkl
+models/retina_model/retinopathy_cnn.h5
+models/face_landmarker.task
